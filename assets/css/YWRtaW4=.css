@@ -1,0 +1,30 @@
+.hidden {
+    display: none;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+main {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+}
+
+h1 {
+    font-size: 3rem;
+    padding-top: 20px;
+    margin-bottom: 30px;
+    display: block;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 25px;
+}
+
+ul {
+    margin-bottom: 10px;
+}

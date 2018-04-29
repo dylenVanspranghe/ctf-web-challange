@@ -1,0 +1,138 @@
+body {
+    background-color: #F5F5F5;
+    overflow: hidden;
+}
+
+header {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    /*background-color: white;*/
+}
+
+nav {
+    display: flex;
+    /*text-align: right;*/
+    background-color: white;
+    height: 10.6vh;
+    width: 900px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    margin-bottom: 40px;
+}
+
+.logo {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-image: url("../media/ctf.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo1 {
+    margin-left: 45px;
+}
+
+.logo2 {
+    margin-right: 45px;
+}
+
+ul {
+    display: inline-block;
+    width: 530px;
+    margin-bottom: 10px;
+    height: 10.6vh;
+    margin-left: 135px;
+}
+
+ul li {
+    display: inline-block;
+    margin-left: 1.5%;
+    margin-top: 6%;
+}
+
+ul li button {
+    height: 3vh;
+}
+
+ul li button a {
+    text-decoration: none;
+    color: #000000/*#a89797*/;
+}
+
+main {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-bottom: 7px;
+    margin-top: 10px;
+}
+
+.balance p {
+    margin-bottom: 5px;
+}
+
+section {
+    width: 860px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+label {
+    display: block;
+}
+
+.transfer {
+    margin-top: 13px;
+}
+
+.transfer label {
+    margin-bottom: 5px;
+}
+
+.transfer input {
+    margin-bottom: 8px;
+}
+
+.log {
+    padding-bottom: 20px;
+}
+
+.hint {
+    display: block;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.hintButton {
+    margin-bottom: 8px;
+}
+
+.hidden {
+    display: none;
+}
+
+figure img {
+    width: 150px;
+}
+
+figure {
+    padding: 20px;
+}

@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+a {
+    display: block;
+    margin-top: 10px;
+}
+
+div {
+    text-align: center;
+}
